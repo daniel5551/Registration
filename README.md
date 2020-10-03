@@ -1,2 +1,3 @@
 # Registration
- Here is an example of how you can register on your site using Python and Flask.
+ To run this project, open Terminal, CMD, and type "pip install -r requirements.txt" to install Flask.
+ After this, run "main.py" and type in browser "localhost:8080".
